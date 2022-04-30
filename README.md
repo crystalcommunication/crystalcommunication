@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile. My pronouns are she/her. I mostly use this account to fork and/or contribute to projects that are already hosted on GitHub. I prefer to keep my contribution history private, but I certainly have a few public repositories you can look through.
+
+Currently, my most notable repository is [the Magisk Twemoji installer]. If you've got Magisk installed on your phone, you can use it to replace the Android system emojis with Twitter emojis, because I prefer the way they look. You can also use this to add the new Unicode emojis to your device if your operating system has not been updated to support them.
+
+Thanks for dropping by!
+
 <!--
 **CrystalCommunication/CrystalCommunication** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
